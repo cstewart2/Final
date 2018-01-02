@@ -1,0 +1,270 @@
+html{
+	background-color: yellow;
+}
+.search{
+	float: bottom;
+}
+.button {
+  font: bold 30px Arial;
+  text-decoration: none;
+  background-color: black;
+  color: yellow;
+  padding: 10px 78px 10px 78px;
+  border-top: 1px black;
+  border-right: 1px black;
+  border-bottom: 1px black;
+  border-left: 1px black;
+  white-space: nowrap;
+}
+h1 {
+	text-align: center;
+	font: bold 20px Arial;
+	color: yellow;
+}
+ul {
+  list-style-type: none;
+}
+#sidebar{
+	background-color: black;
+	border: 2px solid black;
+	line-height: 1.5em;
+	float: left;
+	right: 1em;
+	top: 1em;
+	width: 8em;
+}
+#sidebar ul{
+	padding-left: 2em;
+	font: bold 15px Arial;
+	color: yellow;
+}
+#sidebar li { 
+	padding: 10px 0px;
+}
+#sidebar a:visited {
+	color: yellow;
+}
+a:link {
+  text-decoration:  none;
+  font-weight:      bold;
+  color:            yellow;
+  }
+#validate a:link {
+	color: black;
+	text-decoration: underline;
+}
+#contact {
+	margin-left: 140px;
+}
+#contact p {
+	font: 20px Arial;
+}
+#contact a:link {
+	color: blue;
+}
+#contact a:visited {
+	color: blue;
+}
+#contact h2 {
+	font: bold 30px monoscape;
+	text-decoration: underline;
+}
+#about {
+	font: 20px Arial;
+	color: black;
+	margin-left: 140px;
+}
+.havoc a:link{
+	font: monoscape;
+	color: blue;
+}
+.havoc a:visited {
+	color: blue;
+}
+#about h2 {
+	font: bold 30px monoscape;
+	text-decoration: underline;
+}
+#white {
+	margin-left: 140px;
+	white-space: nowrap;
+}
+#white img {
+	margin-left: 15px;
+	height: 3.82in;
+	width: 2.5in;
+}
+#joke {
+	margin-left: 450px;
+	margin-top: -522px;
+	white-space: nowrap;
+}
+#joke img {
+	margin-left: 35px;
+	height: 3.82in;
+	width: 2.5in;
+}
+h2 {
+	font: monoscape;
+}
+.pub {
+	font: bold 20px monoscape;
+}
+.dc a:link {
+	font: 15px monoscape;
+	color: blue;
+}
+.dc a:visited {
+	color: blue;
+}
+.marvel a:link {
+	font: 15px monoscape;
+	color: red;
+}
+.marvel a:visited {
+	color: red;
+}
+#moon {
+	margin-left: 760px;
+	margin-top: -522px;
+}
+#moon img {
+	margin-left: 35px;
+	height: 3.82in;
+	width: 2.5in;
+}
+#dead {
+	margin-left: 1070px;
+	margin-top: -522px;
+}
+#dead img {
+	margin-left: 35px;
+	height: 3.82in;
+	width: 2.5in;
+}
+#death {
+	margin-left: 760px;
+	margin-top: -522px;
+}
+#death img {
+	margin-left: 35px;
+	height: 3.82in;
+	width: 2.5in;
+}
+#spider {
+	margin-left: 140px;
+}
+#spider img {
+	margin-left: 35px;
+	height: 3.82in;
+	width: 2.5in;
+}
+#venom {
+	margin-left: 450px;
+	margin-top: -522px;
+}
+#venom img {
+	margin-left: 35px;
+	height: 3.82in;
+	width: 2.5in;
+}
+#knight {
+	margin-left: 760px;
+	margin-top: -522px;
+}
+#knight img {
+	margin-left: 35px;
+	height: 3.82in;
+	width: 2.5in;
+}
+#pool {
+	margin-left: 1070px;
+	margin-top: -522px;
+}
+#pool img {
+	margin-left: 35px;
+	height: 3.82in;
+	width: 2.5in;
+}
+#flash {
+	margin-left: 1070px;
+	margin-top: -522px;
+}
+#flash img {
+	margin-left: 35px;
+	height: 3.82in;
+	width: 2.5in;
+}
+#home {
+	font: 25px Arial;
+	color: black;
+	margin-left: 140px;
+}
+#marvellogo img {
+	height: 2.5in;
+	width: auto;
+	margin-left: 300px;
+}
+#dclogo img{
+	height: 2.5in;
+	width: auto;
+	margin-left: 100px;
+}
+.welcome {
+	font: bold 40px monoscape;
+	color: black;
+}
+#bill {
+	margin-left: 140px;
+}
+#bill img {
+	margin-left: 15px;
+	height: 3.82in;
+	width: 2.5in;
+}
+.indie a:link {
+	font: 15px monoscape;
+	color: green;
+}
+.indie a:visited {
+	color: green;
+}
+#nation {
+	margin-left: 450px;
+	margin-top: -522px;
+}
+#nation img {
+	margin-left: 35px;
+	height: 3.82in;
+	width: 2.5in;
+}
+#witch {
+	margin-left: 760px;
+	margin-top: -522px;
+}
+#witch img {
+	margin-left: 35px;
+	height: 3.82in;
+	width: 2.5in;
+}
+#guard {
+	margin-left: 1070px;
+	margin-top: -522px;
+}
+#guard img {
+	margin-left: 35px;
+	height: 3.82in;
+	width: 2.5in;
+}
+#sell {
+	font: 20px Arial;
+	color: black;
+	margin-left: 140px;
+}
+#form {
+	font: 20px Arial;
+	color: black;
+	white-space: nowrap;
+	margin-left: 140px;
+}
+	
